@@ -1,0 +1,330 @@
+{
+  "app_identity": {
+    "brand": {
+      "name": "Hapo",
+      "mark": "spark-ghost"
+    },
+    "edition": {
+      "channel": "mobile",
+      "locale": "en-US"
+    }
+  },
+  "viewer_profile": {
+    "identity": {
+      "handle_os": "renjicaihui",
+      "display_name": "Nova Thread"
+    },
+    "style": {
+      "primary": "chrome streetwear",
+      "accent": "neon knit"
+    }
+  },
+  "credit_wallet": {
+    "balance": {
+      "available": 1250,
+      "unit": "credits"
+    },
+    "usage": {
+      "try_on_cost": 20,
+      "estimated_seconds": 20
+    }
+  },
+  "daily_mood": {
+    "feature": {
+      "title": "Fuzzy Frequencies",
+      "theme": "soft-tech texture"
+    },
+    "palette": {
+      "primary": "aqua",
+      "secondary": "magenta"
+    }
+  },
+  "hat_guide": {
+    "categories": {
+      "featured": [
+        "beanies",
+        "berets",
+        "caps",
+        "fedoras"
+      ]
+    },
+    "navigation": {
+      "selected": "beanies",
+      "position": 0
+    }
+  },
+  "trend_feed": {
+    "summary": {
+      "item_count": 12,
+      "freshness": "today"
+    },
+    "ranking": {
+      "basis": "style relevance",
+      "region": "global"
+    }
+  },
+  "featured_story": {
+    "creator": {
+      "handle": "@cyber_hatter",
+      "follow_state": "following"
+    },
+    "content": {
+      "caption": "Silver linings and chrome crowns.",
+      "tags": [
+        "BucketHat",
+        "Y2K",
+        "ChromeCore"
+      ]
+    }
+  },
+  "style_asset": {
+    "hat": {
+      "name": "Chrome Puff",
+      "family": "bucket hat"
+    },
+    "look": {
+      "outerwear": "metallic puffer",
+      "mood": "urban shine"
+    }
+  },
+  "engagement": {
+    "counts": {
+      "likes": 1200,
+      "comments": 48
+    },
+    "viewer": {
+      "liked": true,
+      "saved": false
+    }
+  },
+  "try_on_session": {
+    "input": {
+      "source": "camera",
+      "pose": "frontal"
+    },
+    "processing": {
+      "state": "ready",
+      "expected_seconds": 20
+    },
+    "output": {
+      "fit_mode": "visual sample",
+      "saved": false
+    }
+  },
+  "photo_requirements": {
+    "framing": {
+      "face": "centered",
+      "angle": "front"
+    },
+    "quality": {
+      "lighting": "even",
+      "occlusion": "minimal"
+    }
+  },
+  "style_selection": {
+    "current": {
+      "asset_id": "hat_chrome_014",
+      "label": "Chrome Puff"
+    },
+    "alternatives": {
+      "items": [
+        "Neon Beanie",
+        "Soft Spike Hood"
+      ]
+    }
+  },
+  "search_experience": {
+    "query": {
+      "text": "holographic visor",
+      "scope": "styles"
+    },
+    "results": {
+      "count": 18,
+      "suggestions": [
+        "chrome",
+        "future",
+        "reflective"
+      ]
+    }
+  },
+  "creator_profile": {
+    "identity": {
+      "handle": "@stitch_king",
+      "badge": "maker"
+    },
+    "metrics": {
+      "followers": 28400,
+      "posts": 96
+    }
+  },
+  "social_graph": {
+    "following": {
+      "count": 142,
+      "recent": [
+        "@cyber_hatter",
+        "@stitch_king"
+      ]
+    },
+    "followers": {
+      "count": 386,
+      "new_today": 7
+    }
+  },
+  "conversation": {
+    "participant": {
+      "handle": "@cyber_hatter",
+      "presence": "active"
+    },
+    "thread": {
+      "unread": 0,
+      "last_activity": "2026-07-22T14:02:00+08:00"
+    }
+  },
+  "message_sample": {
+    "sender": {
+      "handle": "@cyber_hatter",
+      "role": "friend"
+    },
+    "content": {
+      "type": "text",
+      "body": "Did you see the new chrome collection?"
+    }
+  },
+  "media_message": {
+    "asset": {
+      "type": "style_photo",
+      "label": "Rare"
+    },
+    "caption": {
+      "text": "This one matches my whole fit.",
+      "language": "en"
+    }
+  },
+  "content_report": {
+    "reason": {
+      "category": "misleading content",
+      "detail": "Item description mismatch"
+    },
+    "status": {
+      "value": "submitted",
+      "submitted_at": "2026-07-22T14:08:00+08:00"
+    }
+  },
+  "saved_collection": {
+    "folder": {
+      "name": "Future Fits",
+      "item_count": 24
+    },
+    "latest": {
+      "asset_id": "look_204",
+      "saved_at": "2026-07-22T13:45:00+08:00"
+    }
+  },
+  "notification_center": {
+    "preferences": {
+      "messages": true,
+      "new_followers": true
+    },
+    "delivery": {
+      "quiet_hours": "22:00-08:00",
+      "timezone": "Asia/Shanghai"
+    }
+  },
+  "home_navigation": {
+    "tabs": {
+      "items": [
+        "home",
+        "feed",
+        "try-on",
+        "you"
+      ]
+    },
+    "active": {
+      "name": "home",
+      "badge_count": 0
+    }
+  },
+  "accessibility": {
+    "display": {
+      "text_scale": "large",
+      "reduce_motion": false
+    },
+    "media": {
+      "image_descriptions": true,
+      "captions": true
+    }
+  },
+  "content_safety": {
+    "filters": {
+      "harassment": "high",
+      "sensitive_media": "blur"
+    },
+    "actions": {
+      "mute_enabled": true,
+      "block_enabled": true
+    }
+  },
+  "privacy_controls": {
+    "profile": {
+      "visibility": "public",
+      "message_permission": "following"
+    },
+    "photos": {
+      "retain_inputs": "short-term",
+      "training_consent": false
+    }
+  },
+  "ai_provenance": {
+    "model": {
+      "ownership": "Hapo",
+      "operation": "self-hosted"
+    },
+    "training": {
+      "source_policy": "authorized data",
+      "private_photo_use": false
+    },
+    "provider": {
+      "external_model_service": false
+    }
+  },
+  "device_session": {
+    "client": {
+      "platform": "iOS",
+      "app_version": "1.0.0"
+    },
+    "runtime": {
+      "language": "en",
+      "network": "wifi"
+    }
+  },
+  "performance_metrics": {
+    "generation": {
+      "median_seconds": 18.7,
+      "success_rate": 0.982
+    },
+    "feed": {
+      "first_render_ms": 420,
+      "cache_hit_rate": 0.76
+    }
+  },
+  "support_case": {
+    "requester": {
+      "handle": "@nova_thread",
+      "contact": "support@hapo.click"
+    },
+    "ticket": {
+      "topic": "try-on result",
+      "state": "open"
+    }
+  },
+  "legal_preferences": {
+    "consent": {
+      "terms_version": "2026-07-22",
+      "privacy_version": "2026-07-22"
+    },
+    "region": {
+      "country": "US",
+      "minimum_age": 13
+    }
+  }
+}
